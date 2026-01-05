@@ -1,0 +1,22 @@
+
+.heading {
+  color: darkblue;         
+  font-size: 28px;         
+  text-align: center;       
+}
+
+
+.example-text {
+  color: green;            
+  font-style: italic;       
+  margin: 20px;             
+}
+
+
+.box {
+  width: 200px;           
+  height: 100px;            
+  background-color: lightcoral; 
+  border: 2px solid black;  
+  padding: 10px;            
+}
